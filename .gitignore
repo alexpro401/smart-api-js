@@ -1,7 +1,3 @@
-/node_modules/
-/tmp/
-#/dist/
-#/lib/
-/coverage/
-/jsdoc/
-.DS_Store
+node_modules
+.idea
+example.js
